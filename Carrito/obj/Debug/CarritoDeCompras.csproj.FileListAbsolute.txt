@@ -1,0 +1,7 @@
+C:\Users\Mega Tecnologia\source\repos\Carrito\Carrito\bin\Debug\Carrito.exe.config
+C:\Users\Mega Tecnologia\source\repos\Carrito\Carrito\bin\Debug\Carrito.exe
+C:\Users\Mega Tecnologia\source\repos\Carrito\Carrito\bin\Debug\Carrito.pdb
+C:\Users\Mega Tecnologia\source\repos\Carrito\Carrito\obj\Debug\CarritoDeCompras.csproj.AssemblyReference.cache
+C:\Users\Mega Tecnologia\source\repos\Carrito\Carrito\obj\Debug\CarritoDeCompras.csproj.CoreCompileInputs.cache
+C:\Users\Mega Tecnologia\source\repos\Carrito\Carrito\obj\Debug\Carrito.exe
+C:\Users\Mega Tecnologia\source\repos\Carrito\Carrito\obj\Debug\Carrito.pdb
